@@ -1,6 +1,6 @@
 {
   "name": "walt",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "React UI library based on styled-components",
   "author": "Carmelo Pullara",
   "license": "MIT",
