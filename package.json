@@ -1,0 +1,20 @@
+{
+  "name": "walt",
+  "version": "0.0.4",
+  "description": "React UI library based on styled-components",
+  "author": "Carmelo Pullara",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carmelopullara/walt/issues"
+  },
+  "homepage": "https://github.com/carmelopullara/walt#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carmelopullara/walt.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": []
+}
